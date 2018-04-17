@@ -1,4 +1,4 @@
-# NSPointerArray [JumpToCode](https://github.com/dimatarelkin/NSPointerArray/blob/master/ClassroomNSPointerArray/ClassroomNSPointerArray/main.m)
+# NSPointerArray --> [JumpToCode](https://github.com/dimatarelkin/NSPointerArray/blob/master/ClassroomNSPointerArray/ClassroomNSPointerArray/main.m)
 Please, find your tasks on NSPointerArray bellow:
 - Create pointer array and add 10 objects inside.
 - Check arrays count.
